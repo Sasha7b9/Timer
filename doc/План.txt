@@ -1,0 +1,3 @@
+**** Сделать ****
+
+- Изучить Windows-хуки по статье http://rsdn.org/article/baseserv/winhooks.xml
